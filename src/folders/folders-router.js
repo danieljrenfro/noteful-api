@@ -71,7 +71,4 @@ foldersRouter
       .catch(next);
   });
 
-
-
-
 module.exports = foldersRouter;
