@@ -13,6 +13,9 @@
     "predeploy": "npm audit && npm run migrate:production",
     "deploy": "git push heroku main"
   },
+  "engines": {
+    "node": "12.19.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -24,7 +27,7 @@
     "knex": "^0.21.15",
     "morgan": "^1.10.0",
     "path": "^0.12.7",
-    "pg": "^8.5.1",
+    "pg": "^7.18.2",
     "postgrator-cli": "^3.2.0",
     "xss": "^1.0.8"
   },
