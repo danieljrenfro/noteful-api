@@ -36,3 +36,9 @@
     "supertest": "^6.0.1"
   }
 }
+
+Connection information for default credential.
+Connection info string:
+   "dbname=d4mp5fscpuga0d host=ec2-52-22-135-159.compute-1.amazonaws.com port=5432 user=duukdpeytvvlvq password=1ecb95b51d7fd8b2940a57e3c670f0e2dbcdbf97c58202c151bccee3c6b69e0a sslmode=require"
+Connection URL:
+   postgres://duukdpeytvvlvq:1ecb95b51d7fd8b2940a57e3c670f0e2dbcdbf97c58202c151bccee3c6b69e0a@ec2-52-22-135-159.compute-1.amazonaws.com:5432/d4mp5fscpuga0d
